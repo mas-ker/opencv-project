@@ -1,2 +1,1 @@
-# opencv-project
-repo ngoprek openCV 
+WTFPL
